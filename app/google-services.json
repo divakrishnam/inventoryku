@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "358253196615",
+    "firebase_url": "https://inventoryku-2cd37.firebaseio.com",
+    "project_id": "inventoryku-2cd37",
+    "storage_bucket": "inventoryku-2cd37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358253196615:android:b2a1a0995ffdb276a18862",
+        "android_client_info": {
+          "package_name": "com.divakrishnam.inventoryku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358253196615-t0ea98frohflekc2599o3p96ouk140do.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.divakrishnam.inventoryku",
+            "certificate_hash": "0836922427da008656640cab2e13fe8bc3ff9b08"
+          }
+        },
+        {
+          "client_id": "358253196615-at7g1ncoqh987th7q2k4n0jl53imdkal.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFM9qZY6QqZOz-0MNUB2vZYxKddbXskIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358253196615-at7g1ncoqh987th7q2k4n0jl53imdkal.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
